@@ -22,25 +22,6 @@
 * **Language:** Java / XML
 * **Tools:** Android Studio
 
----
-
-## 📸 App Screenshots
-
-Here is a glimpse of the application flow:
-
-| Splash Screen | Login / Signup | Main Menu |
-| :---: | :---: | :---: |
-| <img src="screenshots/1.jpg" width="200"> | <img src="screenshots/2.jpg" width="200"> | <img src="screenshots/3.jpg" width="200"> |
-
-| Categories | Cart & Orders | Payment & Token |
-| :---: | :---: | :---: |
-| <img src="screenshots/4.jpg" width="200"> | <img src="screenshots/5.jpg" width="200"> | <img src="screenshots/6.jpg" width="200"> |
-
-| Receipt / QR |
-| :---: |
-| <img src="screenshots/7.jpg" width="200"> |
-
----
 
 ## 👨‍💻 Developed By
 
